@@ -11,7 +11,9 @@ license = "MIT"
 license-files = ["LICENSE"]
 requires-python = ">=3.11"
 authors = [{ name = "oddssea", email = "hello@oddssea.dev" }]
-keywords = ["pinnacle", "odds", "ps3838", "betting", "websocket"]
+keywords = ["pinnacle", "pinnacle-api", "pinnacle-odds", "ps3838", "ps3838-api", "odds", "odds-api",
+            "sports-betting", "live-odds", "prematch-odds", "closing-line-value", "dropping-odds", "no-vig",
+            "fair-odds", "odds-history", "arbitrage", "value-betting", "websocket"]
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
